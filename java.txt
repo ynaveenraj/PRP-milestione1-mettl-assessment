@@ -1,0 +1,24 @@
+digit sum
+
+string
+immutable
+types of initialization
+string pool and heap memory
+size of string
+methods - chatAt, indexOf, length, split, compareTo, concat, toCharArray, susbstring, replace, replaceall, 
+checking string is empty or not
+
+wrapper case Character - toUpperCase, tolowercase, isuppercase, islowercase, isAlphabetic
+
+string buffer
+creation
+methods - append, reverse
+
+character to string
+number to string
+character to number
+string to number
+return last digit of number
+toggle case
+palindrome
+alernative number concatenation
